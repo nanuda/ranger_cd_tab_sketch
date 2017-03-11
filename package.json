@@ -1,0 +1,23 @@
+{
+  "name": "ranger_cd_tab_sketch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cd_tab.js",
+  "scripts": {
+    "build": "tsc cd_tab.ts",
+    "start": "node cd_tab.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanuda/ranger_cd_tab_sketch.git"
+  },
+  "author": "강동훈(DongHoon Kang)",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/nanuda/ranger_cd_tab_sketch/issues"
+  },
+  "homepage": "https://github.com/nanuda/ranger_cd_tab_sketch#readme",
+  "devDependencies": {
+    "@types/node": "^7.0.8"
+  }
+}
